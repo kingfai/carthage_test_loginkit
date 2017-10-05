@@ -1,0 +1,6 @@
+github "kishikawakatsumi/UICKeyChainStore" ~> 2.1.0
+github "Alamofire/Alamofire" ~> 4.5.0
+github "DaveWoodCom/XCGLogger" ~> 4.0.0
+
+github "kingfai/carthage_test_autheng.git" ~> 4.0.2
+github "kingfai/carthage_test_thekit.git" ~> 4.3.0
